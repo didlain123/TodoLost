@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoLost/static/css/main.0f8c7018.css",
+    "main.js": "/TodoLost/static/js/main.65134c18.js",
+    "index.html": "/TodoLost/index.html",
+    "main.0f8c7018.css.map": "/TodoLost/static/css/main.0f8c7018.css.map",
+    "main.65134c18.js.map": "/TodoLost/static/js/main.65134c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8c7018.css",
+    "static/js/main.65134c18.js"
+  ]
+}
